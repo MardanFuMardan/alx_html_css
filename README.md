@@ -1,12 +1,30 @@
-headphones web page
+Headphone Company
+This project is a landing page for Headphone Company, built with HTML and CSS. The design is inspired by a Figma prototype and aims to provide a clean and responsive layout.
 
-In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
+Features
+Responsive design with mobile-first approach
+Custom font icons
+Interactive elements with hover effects
+Sections:
+Header
+What we do
+Our results
+Contact us
+Footer
+Setup
+Clone the repository:
+Navigate to the project directory and open index.html in your browser.
+CSS Structure
+eset.css: Resets default browser styling.
 
-You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
+�ariables.css: Contains CSS variables for colors, fonts, and layout.
+styles.css: Main stylesheet for layout and design.
+media-queries.css: Contains media queries for responsive design.
+Fonts and Icons
+The project uses Source Sans Pro for the main font and Spin Cycle OT for custom icons. Make sure to install these fonts before using the project.
 
-
-Requirements:
-you are not allowed to import external CSS framework (like Bootstrap)
-you are not to use Javascript
-
-
+Interactions
+Links and buttons change opacity on hover/active.
+Mobile version is activated when the screen width is 480px or less.
+License
+This project is licensed under the MIT License.
